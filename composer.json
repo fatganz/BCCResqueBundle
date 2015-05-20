@@ -14,8 +14,8 @@
     ],
     "require": {
         "symfony/framework-bundle": ">=2.0,<3.0",
-        "kamisama/php-resque-ex": "dev-master",
-        "kamisama/php-resque-ex-scheduler": "dev-master"
+        "kamisama/php-resque-ex": "1.3.0",
+        "kamisama/php-resque-ex-scheduler": "1.3.0"
     },
     "autoload": {
         "psr-0": { "BCC\\ResqueBundle": "" }
